@@ -1,0 +1,19 @@
+# --- Directorios de trabajo (No subir a GitHub) ---
+ENTRADA_PDFS/
+SALIDA_TRADUCIDOS/
+PDFS_PROCESADOS/
+PDFS_CON_ERROR/
+TEMP_OCR/
+ENTRADA_OFFICE/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+*.log
