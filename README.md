@@ -1,6 +1,8 @@
 # 🚀 AI Local PDF Translator & OCR
 
 Herramienta profesional para traducir documentos PDF masivos de forma 100% local, preservando imágenes, tablas y maquetación original. Combina la potencia de **Ollama** (LLMs locales), **OCRmyPDF** (Reparación de texto) y **PyMuPDF**.
+<img width="604" height="270" alt="traductor" src="https://github.com/user-attachments/assets/3ef14136-0055-4715-a29f-21c00a7e27e8" />
+<img width="1047" height="256" alt="traductor1" src="https://github.com/user-attachments/assets/d6400b2a-7d4a-4430-8195-e8d49929f17c" />
 
 ## ✨ Características Principales
 
